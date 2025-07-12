@@ -1,0 +1,667 @@
+[
+  {
+    "id": 1,
+    "anime": "Tales of Arise - OP1",
+    "name": "\"HIBANA -Tales of ARISE opening ver.-\" by Kankaku Piero",
+    "video": "https://www.youtube.com/watch?v=b_mjOItr_nY",
+    "mp3": NaN
+  },
+  {
+    "id": 2,
+    "anime": "Tales of Arise - OP2",
+    "name": "\"Blue Moon -Tales of ARISE ver.-\" by Ayaka",
+    "video": "https://www.youtube.com/watch?v=oTXee8msobw",
+    "mp3": NaN
+  },
+  {
+    "id": 3,
+    "anime": "Tales of Arise - ED",
+    "name": "\"HIBANA -Tales of ARISE opening ver.- (English ver.)\" by Kankaku Piero",
+    "video": "https://www.youtube.com/watch?v=tXQqfXyE_7Q&t=840s",
+    "mp3": NaN
+  },
+  {
+    "id": 4,
+    "anime": "Tales of Arise - IN",
+    "name": "\"Hello, Again ~Mukashikara Aru Basho~ -Tales of ARISE ver.\" by Ayaka",
+    "video": "https://youtu.be/tXQqfXyE_7Q?t=419",
+    "mp3": NaN
+  },
+  {
+    "id": 5,
+    "anime": "Tales of Arise: Beyond the Dawn - OP",
+    "name": "\"We Still\" by Kankaku Piero",
+    "video": "https://youtu.be/oRYHQml4JWI?si=heSWY7RwpebHaZuU",
+    "mp3": NaN
+  },
+  {
+    "id": 6,
+    "anime": "Tales of Asteria: Hoshi no Kakera - OP",
+    "name": "\"believe in you\" by Do As Infinity",
+    "video": "https://www.youtube.com/watch?v=UU9MO9iOXfI",
+    "mp3": NaN
+  },
+  {
+    "id": 7,
+    "anime": "Tales of Asteria: Hikari to Yami no Kyuseishu - OP",
+    "name": "\"Eternally\" by CREAM",
+    "video": "https://www.youtube.com/watch?v=yyU30N38Gq0",
+    "mp3": NaN
+  },
+  {
+    "id": 8,
+    "anime": "Tales of Asteria: Kesshou no Daichi to Michibiki no Hikari - OP",
+    "name": "\"We Belong\" by BONNIE PINK",
+    "video": "https://www.youtube.com/watch?v=fHPVFxA9nz0",
+    "mp3": NaN
+  },
+  {
+    "id": 9,
+    "anime": "Tales of Asteria: Tsuioku no Rakuen - OP",
+    "name": "“ACROSS” by Nana Mizuki",
+    "video": "https://www.youtube.com/watch?v=4uTNI4BiHMQ",
+    "mp3": NaN
+  },
+  {
+    "id": 10,
+    "anime": "Tales of Asteria: Avaron ni Nemuru Kiseki - OP",
+    "name": "“Adventure” by Beverly",
+    "video": "https://www.youtube.com/watch?v=DGvhNX_3Veo",
+    "mp3": NaN
+  },
+  {
+    "id": 11,
+    "anime": "Tales of Asteria: Sousei no Sadame - OP",
+    "name": "“DIVERGED LIGHT” by Takashi Kondou",
+    "video": "https://www.youtube.com/watch?v=0hoXExmZup4",
+    "mp3": NaN
+  },
+  {
+    "id": 12,
+    "anime": "Tales of Berseria - OP",
+    "name": "\"BURN\" by FLOW",
+    "video": "https://files.catbox.moe/r4irkw.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 13,
+    "anime": "Tales of Crestoria - OP",
+    "name": "\"Mitsu to Tooboe” by Gesu no Kiwami Otome",
+    "video": "https://www.youtube.com/watch?v=606txstlddI",
+    "mp3": NaN
+  },
+  {
+    "id": 14,
+    "anime": "Tales of Crestoria - IN",
+    "name": "\"two of us\" by Shion Tahara",
+    "video": "https://www.youtube.com/watch?v=5j4bJhyniBU",
+    "mp3": NaN
+  },
+  {
+    "id": 15,
+    "anime": "Tales of Crestoria - IN",
+    "name": "\"EVER RAIN\" by DAZZ",
+    "video": "https://www.youtube.com/watch?v=wqAcYIyGKcA",
+    "mp3": NaN
+  },
+  {
+    "id": 16,
+    "anime": "Tales of Crestoria - IN",
+    "name": "\"faraway\" by Kenji Kobayashi",
+    "video": "https://www.youtube.com/watch?v=RJfESDFoXq8&ab_channel=VariousArtists-Topic",
+    "mp3": NaN
+  },
+  {
+    "id": 17,
+    "anime": "Tales of Crestoria: Toga Waga wo Shoite Kare wa Tatsu - IN",
+    "name": "\"Light in You\" by Ryu Miho",
+    "video": "https://youtu.be/yhgzufRWeig?t=419",
+    "mp3": NaN
+  },
+  {
+    "id": 18,
+    "anime": "Tales of Destiny - OP",
+    "name": "\"Yume de Aru You ni\" by DEEN",
+    "video": "https://www.youtube.com/watch?v=XaaLS4LSQ18",
+    "mp3": NaN
+  },
+  {
+    "id": 19,
+    "anime": "Tales of Destiny 2 - OP",
+    "name": "\"key to my heart\" by Mai Kuraki",
+    "video": "https://www.youtube.com/watch?v=cI66md3_3LE",
+    "mp3": NaN
+  },
+  {
+    "id": 20,
+    "anime": "Tales of Eternia - OP",
+    "name": "\"flying\" by GARNET CROW",
+    "video": "https://www.youtube.com/watch?v=F9rqiAAfBig",
+    "mp3": NaN
+  },
+  {
+    "id": 21,
+    "anime": "Tales of Eternia - ED",
+    "name": "\"eighteen\" by New Cinema Tokage",
+    "video": "https://youtu.be/mRqm63nmVyE?t=118",
+    "mp3": NaN
+  },
+  {
+    "id": 22,
+    "anime": "Tales of Eternia The Animation - OP",
+    "name": "\"Sora ni Kakeru Hashi\" by Masami Okui",
+    "video": "https://files.catbox.moe/eu7s8g.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 23,
+    "anime": "Tales of Eternia The Animation - ED",
+    "name": "\"I'd love you to touch me\" by Masami Okui",
+    "video": "https://files.catbox.moe/sduavq.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 24,
+    "anime": "Tales of Eternia The Animation - EP5 IN",
+    "name": "\"Count Down to Paradise\" by Omi Minami & Yui Horie",
+    "video": "https://files.catbox.moe/naidmq.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 25,
+    "anime": "Tales of Eternia The Animation - EP5 IN",
+    "name": "\"Mirai kara no Boukyou\" by Megumi Hayashibara",
+    "video": "https://files.catbox.moe/kq2qf5.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 26,
+    "anime": "Tales of Gekijou - ED",
+    "name": "\"Omotteiru zutto...\" by Miyata Shouko",
+    "video": "https://files.catbox.moe/t3803u.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 27,
+    "anime": "Tales of Graces - OP",
+    "name": "\"Mamoritai ~White Wishes~\" by BoA",
+    "video": "https://www.youtube.com/watch?v=WL52tlkU5u8",
+    "mp3": NaN
+  },
+  {
+    "id": 28,
+    "anime": "Tales of Hearts - OP",
+    "name": "\"Eien no Ashita\" by DEEN",
+    "video": "https://www.youtube.com/watch?v=t6pCZ_Nmmkg",
+    "mp3": NaN
+  },
+  {
+    "id": 29,
+    "anime": "Tales of HR - ED",
+    "name": "“Normin Dance” by Misato Fukuen",
+    "video": "https://files.catbox.moe/a9tqmu.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 30,
+    "anime": "Tales of HR - EP9 IN",
+    "name": "“Phi and Velvet” by Azumi Asakura & Rina Satou",
+    "video": "https://files.catbox.moe/wllom7.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 32,
+    "anime": "Tales of Innocence - OP",
+    "name": "\"Follow the Nightingale\" by KOKIA",
+    "video": "https://files.catbox.moe/ffx4nz.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 31,
+    "anime": "Tales of Innocence - ED",
+    "name": "\"say goodbye & good day\" by KOKIA",
+    "video": "https://youtu.be/FJyt_tPLFuE?si=XtiXA_fvC0TmTiej&t=2036",
+    "mp3": NaN
+  },
+  {
+    "id": 33,
+    "anime": "Tales of Innocence R - OP",
+    "name": "\"New Day, New Life\" by KOKIA",
+    "video": "https://www.youtube.com/watch?v=Kw5YhjeOSO4",
+    "mp3": NaN
+  },
+  {
+    "id": 34,
+    "anime": "Tales of Legendia - OP",
+    "name": "\"TAO\" by Do As Infinity",
+    "video": "https://www.youtube.com/watch?v=pHUGPB0v77A",
+    "mp3": NaN
+  },
+  {
+    "id": 35,
+    "anime": "Tales of Legendia - ED",
+    "name": "\"My Tales\" by Donna Burke & Gab Desmond",
+    "video": "https://youtu.be/DnZSCXrM22k?t=203",
+    "mp3": NaN
+  },
+  {
+    "id": 36,
+    "anime": "Tales of Link - OP",
+    "name": "\"SCARLET STARLET\" by Straightener",
+    "video": "https://www.youtube.com/watch?v=4S0tpPRqAKw",
+    "mp3": NaN
+  },
+  {
+    "id": 37,
+    "anime": "Tales of Luminaria - OP",
+    "name": "\"TOMOSHI BEAT\" by Frederic",
+    "video": "https://www.youtube.com/watch?v=cxrLL_MHgiw",
+    "mp3": NaN
+  },
+  {
+    "id": 38,
+    "anime": "Tales of Luminaria - ED",
+    "name": "\"Regret\" by Keina Suda",
+    "video": "https://www.youtube.com/watch?v=1f_viKgRnhg",
+    "mp3": NaN
+  },
+  {
+    "id": 39,
+    "anime": "Tales of Luminaria: The Fateful Crossroad - IN",
+    "name": "\"ANSWER\" by Frederic× Keina Suda",
+    "video": "https://www.youtube.com/watch?v=VAedJnVrO_M",
+    "mp3": NaN
+  },
+  {
+    "id": 40,
+    "anime": "Tales of Phantasia (PS) - OP",
+    "name": "\"Yume wa Owaranai ~Kobore Ochiru Toki no Shizuku~\" by Yomi",
+    "video": "https://www.youtube.com/watch?v=3wHgLz8ym20",
+    "mp3": NaN
+  },
+  {
+    "id": 41,
+    "anime": "Tales of Phantasia (PS) - ED",
+    "name": "\"Hoshi wo Sora ni...\" by Yukari Yoshida",
+    "video": "https://youtu.be/nz-OWi8cZ-s?t=635",
+    "mp3": NaN
+  },
+  {
+    "id": 42,
+    "anime": "Tales of Phantasia (SNES) - OP",
+    "name": "\"Yume wa Owaranai ~Kobore Ochita Toki no Shizuku~\" by Yukari Yoshida",
+    "video": "https://youtu.be/okSEWIXa5w4",
+    "mp3": NaN
+  },
+  {
+    "id": 43,
+    "anime": "Tales of Phantasia The Animation - OP",
+    "name": "\"Yume no Hate\" by Masami Suzuki",
+    "video": "https://files.catbox.moe/me2xdl.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 44,
+    "anime": "Tales of Phantasia The Animation - ED",
+    "name": "\"Priere\" by Masami Suzuki",
+    "video": "https://files.catbox.moe/gpay3b.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 45,
+    "anime": "Tales of Phantasia: Narikiri Dungeon X - OP",
+    "name": "\"Glass no Hana\" by Hanako Oku",
+    "video": "https://www.youtube.com/watch?v=1NENTLgsXCY",
+    "mp3": NaN
+  },
+  {
+    "id": 46,
+    "anime": "Tales of Phantasia: Narikiri Dungeon X - ED",
+    "name": "\"rebirth\" by Hanako Oku",
+    "video": "https://files.catbox.moe/n2l3ol.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 47,
+    "anime": "Tales of Rebirth OP - OP",
+    "name": "\"good night\" by Every Little Thing",
+    "video": "https://www.youtube.com/watch?v=mEuy8CgWxWc",
+    "mp3": NaN
+  },
+  {
+    "id": 48,
+    "anime": "Tales of Symphonia (GC) - OP",
+    "name": "\"Starry Heavens\" by day after tomorrow",
+    "video": "https://www.youtube.com/watch?v=kzT8umAcgFs",
+    "mp3": NaN
+  },
+  {
+    "id": 49,
+    "anime": "Tales of Symphonia (PS2) - OP",
+    "name": "\"Soshite Boku ni Dekiru Koto\" by day after tomorrow",
+    "video": "https://www.youtube.com/watch?v=g0mF0q_5qkE",
+    "mp3": NaN
+  },
+  {
+    "id": 50,
+    "anime": "Tales of Symphonia (PS3) - OP1",
+    "name": "\"Starry Heavens ver. 2013\" by misono",
+    "video": "https://www.youtube.com/watch?v=qAQUparDhtg",
+    "mp3": NaN
+  },
+  {
+    "id": 51,
+    "anime": "Tales of Symphonia (PS3) - OP2",
+    "name": "\"Soshite Boku ni Dekiru Koto ver. 2013\" by misono",
+    "video": "https://www.youtube.com/watch?v=nEE-tu5kCEY",
+    "mp3": NaN
+  },
+  {
+    "id": 52,
+    "anime": "Tales of Symphonia: Ratatosk no Kishi (Wii) - OP",
+    "name": "\"Nininsankyaku\" by misono",
+    "video": "https://www.youtube.com/watch?v=2Knqt5KOYxM",
+    "mp3": NaN
+  },
+  {
+    "id": 53,
+    "anime": "Tales of Symphonia: Ratatosk no Kishi (PS3) - OP",
+    "name": "\"Nininsankyaku ver. 2013\" by misono",
+    "video": "https://www.youtube.com/watch?v=FnRRyLKpflQ",
+    "mp3": NaN
+  },
+  {
+    "id": 54,
+    "anime": "Tales of Symphonia The Animation: Sylvarant-hen - OP",
+    "name": "\"ALMATERIA\" by Eri Kawai",
+    "video": "https://files.catbox.moe/jso3uf.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 55,
+    "anime": "Tales of Symphonia The Animation: Sylvarant-hen - ED1",
+    "name": "\"Negai\" by Kaori Hikita",
+    "video": "https://files.catbox.moe/f4bb9i.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 56,
+    "anime": "Tales of Symphonia The Animation: Sylvarant-hen - ED2",
+    "name": "\"Uchi e Kaerou\" by Nana Mizuki",
+    "video": "https://files.catbox.moe/8q2vn0.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 57,
+    "anime": "Tales of Symphonia The Animation: Sylvarent-hen - EP2 IN",
+    "name": "“Fiat lux -Hikari Are-“ by Nana Mizuki",
+    "video": "https://files.catbox.moe/4iyj6g.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 58,
+    "anime": "Tales of Symphonia The Animation: Tethe'alla-hen - OP",
+    "name": "\"Tenkuu no Canaria\" by Nana Mizuki",
+    "video": "https://files.catbox.moe/tl3sw2.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 59,
+    "anime": "Tales of Symphonia The Animation: Tethe'alla-hen - ED1",
+    "name": "\"Inori no Kanata\" by Akiko Shikata",
+    "video": "https://files.catbox.moe/u69920.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 60,
+    "anime": "Tales of Symphonia The Animation: Tethe'alla-hen - ED2",
+    "name": "\"TETHE'ALLA ~Tai no Kodomo-tachi~\" by Akiko Shikata",
+    "video": "https://files.catbox.moe/5aps1b.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 61,
+    "anime": "Tales of Symphonia The Animation: Sekai Tougou-hen - OP",
+    "name": "\"Ho・n・to・U・so\" by Me",
+    "video": "https://files.catbox.moe/insf6i.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 62,
+    "anime": "Tales of Symphonia The Animation: Sekai Tougou-hen - ED1",
+    "name": "\"Ta ga Tame no Sekai\" by Akiko Shikata",
+    "video": "https://files.catbox.moe/fkez0v.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 63,
+    "anime": "Tales of Symphonia The Animation: Sekai Tougou-hen - ED2",
+    "name": "\"Ibitsu\" by Akiko Shikata",
+    "video": "https://files.catbox.moe/cxb9ng.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 64,
+    "anime": "Tales of Symphonia The Animation: Sekai Tougou-hen - ED3",
+    "name": "\"Hikari Furu Basho de ~Promesse~\" by Akiko Shikata",
+    "video": "https://files.catbox.moe/e2dfg5.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 65,
+    "anime": "Tales of Symphonia The Animation: Sekai Tougou-hen - ED4",
+    "name": "\"Kaze wa Harukana Asu wo Shiru\" by Akiko Shikata",
+    "video": "https://files.catbox.moe/ini74h.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 66,
+    "anime": "Tales of the Abyss - OP",
+    "name": "\"Karma\" by BUMP OF CHICKEN",
+    "video": "https://files.catbox.moe/oed6vi.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 67,
+    "anime": "Tales of the Abyss - ED",
+    "name": "\"Bouken Suisei\" by Kurumi Enomoto",
+    "video": "https://files.catbox.moe/1ocjz6.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 68,
+    "anime": "Tales of the Abyss - EP26 IN",
+    "name": "\"Fuka\" by Yukana",
+    "video": "https://files.catbox.moe/7fd85h.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 69,
+    "anime": "Tales of the Heroes: Twin Brave - OP",
+    "name": "\"SHINE\" by FUNKIST",
+    "video": "https://www.youtube.com/watch?v=vrxaRAUByKw",
+    "mp3": NaN
+  },
+  {
+    "id": 70,
+    "anime": "Tales of the Heroes: Twin Brave - ED",
+    "name": "\"NEW DAYS\" by FUNKIST",
+    "video": "https://files.catbox.moe/snf9ye.mp4",
+    "mp3": NaN
+  },
+  {
+    "id": 71,
+    "anime": "Tales of the Rays - OP",
+    "name": "\"NEW WALL\" by [Alexandros]",
+    "video": "https://www.youtube.com/watch?v=YAEOVIm6ZBs",
+    "mp3": NaN
+  },
+  {
+    "id": 72,
+    "anime": "Tales of the Rays: Mirrage Prison - OP",
+    "name": "\"Mirai List\" by Girlfriend",
+    "video": "https://www.youtube.com/watch?v=uACjFpOaJBQ",
+    "mp3": NaN
+  },
+  {
+    "id": 73,
+    "anime": "Tales of the Rays: Fairy’s Requiem - OP",
+    "name": "\"Mirai Kara no Hikari\" by DEEN",
+    "video": "https://www.youtube.com/watch?v=0_qt2CAq2Gw",
+    "mp3": NaN
+  },
+  {
+    "id": 74,
+    "anime": "Tales of the Rays: Last Cradle - OP",
+    "name": "\"I believe\" by BoA",
+    "video": "https://www.youtube.com/watch?v=wMh9LVYPW9E",
+    "mp3": NaN
+  },
+  {
+    "id": 75,
+    "anime": "Tales of the Rays: Recollection - OP",
+    "name": "\"Back to Life\" by Ayaka Hirahara",
+    "video": "https://www.youtube.com/watch?v=uX61_QPEOwE",
+    "mp3": NaN
+  },
+  {
+    "id": 76,
+    "anime": "Tales of the Tempest - OP",
+    "name": "\"VS\" by misono",
+    "video": "https://files.catbox.moe/5je474.mp4",
+    "mp3": NaN
+  },
+  {
+    "id": 77,
+    "anime": "Tales of the World: Radiant Mythology - OP",
+    "name": "\"Hikari to Kage\" by Kana Uemura",
+    "video": "https://www.youtube.com/watch?v=jYrGQC-lIJ0",
+    "mp3": NaN
+  },
+  {
+    "id": 78,
+    "anime": "Tales of the World: Radiant Mythology 2 - OP",
+    "name": "\"flyaway\" by BACK-ON",
+    "video": "https://www.youtube.com/watch?v=hBNsSh8gcpU",
+    "mp3": NaN
+  },
+  {
+    "id": 79,
+    "anime": "Tales of the World: Radiant Mythology 2 - ED",
+    "name": "\"Where is the future?\" by BACK-ON",
+    "video": "https://files.catbox.moe/ztkmfd.mp4",
+    "mp3": NaN
+  },
+  {
+    "id": 80,
+    "anime": "Tales of the World: Radiant Mythology 3 - OP",
+    "name": "\"with you\" by BACK-ON feat. Me",
+    "video": "https://www.youtube.com/watch?v=6LV6tyQWl5s",
+    "mp3": NaN
+  },
+  {
+    "id": 81,
+    "anime": "Tales of the World: Radiant Mythology 3 - ED",
+    "name": "\"Nagareboshi\" by BACK-ON",
+    "video": "https://files.catbox.moe/e5zbjb.mp4",
+    "mp3": NaN
+  },
+  {
+    "id": 82,
+    "anime": "Tales of the World: Reve Unitia - OP",
+    "name": "\"Hikaru Yami\" by Nami Nakagawa",
+    "video": "https://www.youtube.com/watch?v=kF4Mbziklmw",
+    "mp3": NaN
+  },
+  {
+    "id": 83,
+    "anime": "Tales of the World: Reve Unitia - ED",
+    "name": "\"Natsukashii Yume\" by Nami Nakagawa",
+    "video": "https://files.catbox.moe/yrwsbw.mp4",
+    "mp3": NaN
+  },
+  {
+    "id": 84,
+    "anime": "Tales of Vesperia - OP",
+    "name": "\"Kane wo Narashite\" by BONNIE PINK",
+    "video": "https://www.youtube.com/watch?v=E2izo6J0C2E",
+    "mp3": NaN
+  },
+  {
+    "id": 85,
+    "anime": "Tales of VS. - OP",
+    "name": "\"Be your wings\" by GIRL NEXT DOOR",
+    "video": "https://www.youtube.com/watch?v=xG_fBgqwn3c",
+    "mp3": NaN
+  },
+  {
+    "id": 86,
+    "anime": "Tales of Xillia - OP",
+    "name": "\"progress\" by Ayumi Hamasaki",
+    "video": "https://www.youtube.com/watch?v=cFKQvCwG0sY",
+    "mp3": NaN
+  },
+  {
+    "id": 87,
+    "anime": "Tales of Xillia 2 - OP",
+    "name": "\"Song 4 U\" by Ayumi Hamasaki",
+    "video": "https://www.youtube.com/watch?v=2VlBEu6rAE4",
+    "mp3": NaN
+  },
+  {
+    "id": 88,
+    "anime": "Tales of Zestiria - OP",
+    "name": "\"White Light\" by Superfly",
+    "video": "https://files.catbox.moe/vmcvey.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 89,
+    "anime": "Tales of Zestiria the X - OP",
+    "name": "\"Kaze no Uta\" by FLOW",
+    "video": "https://naedist.animemusicquiz.com/ccgu8n.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 90,
+    "anime": "Tales of Zestiria the X - ED",
+    "name": "\"calling\" by fhána",
+    "video": "https://naedist.animemusicquiz.com/13gfay.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 91,
+    "anime": "Tales of Zestiria the X - EP7 IN",
+    "name": "“Ageless moon” by Eriko Masaki",
+    "video": "https://files.catbox.moe/ckwemb.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 92,
+    "anime": "Tales of Zestiria the X 2nd Season - OP",
+    "name": "“illuminate” by Minami",
+    "video": "https://files.catbox.moe/ejg2a4.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 93,
+    "anime": "Tales of Zestiria the X 2nd Season - ED",
+    "name": "“INNOSENSE” by FLOW",
+    "video": "https://naedist.animemusicquiz.com/9zja81.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 94,
+    "anime": "Tales of Zestiria the X 2nd Season - EP13 ED",
+    "name": "“Journey’s End” by Ingrid Gerdes ~with forçaChoir",
+    "video": "https://files.catbox.moe/r8dtbr.webm",
+    "mp3": NaN
+  },
+  {
+    "id": 95,
+    "anime": "Tales of Zestiria the X 2nd Season - EP8 IN",
+    "name": "“Rising Up” by Courtney Knott",
+    "video": "https://files.catbox.moe/sy20h0.webm",
+    "mp3": NaN
+  }
+]
